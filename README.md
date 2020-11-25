@@ -40,6 +40,8 @@ The challenges are often meant to be tackled by pre-planning and gathering resou
 If d20+PB+UB+AB > DC => Success  
 if DC > 10+PB => 1 skill XP
 
+A roll of 20 is an automatic success and a roll of 1 is an automatic failure. They are a good way to bring flavour as great luck or misfortune.
+
 Any other character may add half the PB (min 1) of a skill that could contribute to the solution.
   
 If DM decides an action is worthy of "divine favour" or it's simply done from an advantageous position, he can grant Advantage to the roll. (Rolling twice keeping the highest.)
@@ -101,7 +103,7 @@ failing to beat the DC may not produce a result and success might only yield a l
 - XP - Experience Points
 - d(n) - n sided die
 
-#### Commonly used terms
+#### General terms
 - Innate skill - Skill that's easier for a character to master.
 - Advantage - Rolling twice keeping the highest.
 - Disadvantage - Rolling twice keeping the lowest.
