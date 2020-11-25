@@ -1,6 +1,3 @@
-# Hawk RPG
-
-
 ## Mechanics
 
 ### Proficiencies
