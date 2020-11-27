@@ -30,19 +30,20 @@ The challenges are often meant to be tackled by pre-planning and gathering resou
 
 |   DC  |  Level  |                    Description                   |
 |:-----:|:-------:|:------------------------------------------------:|
-|  1-10 | Trivial | No roll.                                         |
 | 11-20 | Normal  | Anyone has a chance to succeed.                  |
 | 21-30 | Expert  | Some skills, tools or angles are required.       |
 | 31-40 | Heroic  | Either high level or a lot of help required.     |
 |  40+  | Grand   | Grand scale operation.                           |
 
+Note: Any check where 10+bonuses (average roll) would differ from the DC for 10 or more, can be resolved without rolling.
+
 ### Checks
-If d20+PB+UB+AB > DC => Success  
-if DC > 10+PB => 1 skill XP
+If d20+PB+UB+AB >= DC ---> Success  
+if DC >= 10+PB ---> 1 skill XP
 
 A roll of 20 is an automatic success and a roll of 1 is an automatic failure. *They are a good way to bring flavour as great luck or misfortune.*
 
-Any other character may add half the PB (min 1) of a skill that could contribute to the solution.
+Any other character may add half of their total bonuses (min 1) of a skill that could contribute to the solution.
   
 If DM decides an action is worthy of "divine favour" or it's simply done from an advantageous position, he can grant Advantage to the roll. (Rolling twice keeping the highest.)
 The characters have no way to influence that choice directly, other than making immersive choices. Same goes for Disadvantage.
@@ -83,6 +84,15 @@ Generally an action can be attmepted without any prior skill, but some actions m
 The system was designed with an epic scale in mind. Meaning the events should be sequenced with longer periods of time in between. That doesn't mean that small scale interactions should be avoided. Conversation, an involved puzzle and similar elements are still the corner stone of any good adventure.
 
 *For example, a visit to the town should be described on a larger scale, with characters expressing their intents beforehand and only pane in on the characters point of view where it's necessary. Travel from that town to the destination takes a few days of travel. In between characters can set intentions to do different things, which can be resolved from the characters point of view only if the resolution requires more interaction. However at the destination, the puzzle should still be complex with many parts and checks and perhaps even branching paths.*
+
+### Character creation
+We are creating an example character who is a soldier, serving his ranks as a scout. For flavour; his interest is in poisons and his missions often involved poisoning enemy supplies.
+
+- For his innate skills we choose **sneaking**, **perception** and **making poisons**.
+- DM decided the characters start off with a set of tools, so he starts out with a **poisoner's kit**.
+- His military training and personal interests give him starting bonus in **archery**, **sneaking** and **poison making**.
+
+The equipment he's carrying is common clothes with a grey cloak, leather armour, two short blades, a short bow and a backpack with all basic adventuring gear such as rope, blanket, cooking utensils and a tinderbox. He's also carrying a belt pouch with a handful of ball bearings.
 
 ### Combat
 Combat can either be tackled in a series of events or a single encounter. The characters could either prepare a whole strategy, gather insight, accumulate different angles and overcome the challenge on a large scale. They could also dive in and use any angles that present themselves on the fly, in a series of smaller encounters.
