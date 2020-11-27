@@ -64,6 +64,7 @@ Skill XP or levels may be rewarded by DM for appropriate character actions or do
 At character creation choose:
 - 3 **innate skills** in which you will gain XP quicker
 - 3 skills where you get a **starting bonus** of +2 PB.
+
 You can substitute any number of starting bonuses with a basic set of tools or any other utility, such as spells.
 
 *Optionally* You also start with 1 set of tools.
