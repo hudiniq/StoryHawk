@@ -65,9 +65,9 @@ At character creation choose:
 - 3 **innate skills** in which you will gain XP quicker
 - 3 skills where you get a **starting bonus** of +2 PB.
 
-You can substitute any number of starting bonuses with a basic set of tools or any other utility, such as spells.
+You can substitute any number of starting bonuses with a basic set of tools or any other Utility, such a spell.
 
-*Optionally* You also start with 1 set of tools.
+*Optionally* A DM might choose to start characters off with another Utility.
 
 Every character can start off with a reasonable number of mundane weapons and other adventuring equipment of their choice.
 
