@@ -40,7 +40,7 @@ The challenges are often meant to be tackled by pre-planning and gathering resou
 If d20+PB+UB+AB > DC => Success  
 if DC > 10+PB => 1 skill XP
 
-A roll of 20 is an automatic success and a roll of 1 is an automatic failure. They are a good way to bring flavour as great luck or misfortune.
+A roll of 20 is an automatic success and a roll of 1 is an automatic failure. *They are a good way to bring flavour as great luck or misfortune.*
 
 Any other character may add half the PB (min 1) of a skill that could contribute to the solution.
   
@@ -61,13 +61,20 @@ You gain 1 XP anytime you succeed a check where DC > 10+PB.
 Skill XP or levels may be rewarded by DM for appropriate character actions or downtime activities.
 
 ### Character creation
-At character creation choose 3 innate skills and 3 skills where you get a starting bonus of +2 PB.
-You can substitute any number of starting bonuses with a basic set of tools.
+At character creation choose:
+- 3 **innate skills** in which you will gain XP quicker
+- 3 skills where you get a **starting bonus** of +2 PB.
+You can substitute any number of starting bonuses with a basic set of tools or any other utility, such as spells.
 
 *Optionally* You also start with 1 set of tools.
 
+Every character can start off with a reasonable number of mundane weapons and other adventuring equipment of their choice.
+
 ### Skill locks
 A DM may choose to only allow an attempt/check above a certain skill level, but must me explicit about it beforehand.
+
+Generally an action can be attmepted without any prior skill, but some actions might require basic familiarity with an appropriate skill.  
+*For example any speech related checks can be attempted at any or no skill level, but an attempt to enchant a weapon would require you to have some prior familiarity with enchanting.*
 
 ## Examples and guidelines
 
