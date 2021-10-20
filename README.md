@@ -1,4 +1,4 @@
-# Hawk RPG
+# Story Hawk RPG
 In Hawk characters and dungeon master tell a story together. The system enables them to do so with some mechanics that introduce an element of chance. It is played in a way where a DM sets the general picture of the story and helps characters resolve conflict and challenges.
 
 Hawk keeps most RPG elements present but kept at a simple level, not to bog down the storytelling aspect.  
